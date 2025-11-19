@@ -1,3 +1,7 @@
+.github
+└── workflows
+    └── windows-build.yml
+
 name: Build DTF Print Manager (Windows)
 
 on:
